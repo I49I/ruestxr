@@ -1,4 +1,4 @@
--- rue X
+-- rueX
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer or Players.PlayerAdded:Wait()
 
